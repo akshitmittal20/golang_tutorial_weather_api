@@ -97,6 +97,11 @@ func (mp *MyPoller) handledata(Wdata *WeatherData) error {
 			fmt.Println(err)
 		}
 	}
+	fmt.Println("")
+	fmt.Println("------------")
+	fmt.Println("The Weather JSON data : ")
+	fmt.Println("------------")
+	fmt.Println(Wdata)
 	return nil
 }
 
