@@ -12,6 +12,6 @@
 
 
 - Weather report project
-- <img width="942" alt="Screenshot 2024-01-11 at 12 31 59 PM" src="https://github.com/akshitmittal20/golang_tutorial_weather_api/assets/63283989/9b9c92b6-3ee6-4a02-aada-ca72086e3215">
+<img width="942" alt="Screenshot 2024-01-11 at 12 31 59 PM" src="https://github.com/akshitmittal20/golang_tutorial_weather_api/assets/63283989/9b9c92b6-3ee6-4a02-aada-ca72086e3215">
 
 
